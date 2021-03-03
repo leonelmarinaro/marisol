@@ -45,7 +45,7 @@ nav{
 }
 
 nav > a{
-    color:rgb(250, 3, 3);
+    color:#fff;
     font-weight: 300;
     text-decoration: none;
     margin-right: 10px;
@@ -53,8 +53,7 @@ nav > a{
 
 nav > a:hover{
     text-decoration: underline;
-    padding: 6px;
-}
+   }
 
 header .textos-header{
     display: flex;
